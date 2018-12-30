@@ -9,9 +9,9 @@ body{
     color: white;
 }
 
-.header p{
-    list-style: none;
+.btn-nav {
     font-size: 18px;
+    color: white;
 }
 
 .header p a {
@@ -42,4 +42,11 @@ p {
     color: white;
     font-size: 23px;
     font-weight: bold;
+}
+
+.footer {
+    background-color: dimgray;
+    text-align: left;
+    color: white;
+    font-size: 11px;
 }
